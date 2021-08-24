@@ -2,9 +2,8 @@
 
 Inathi Mbomvu works as an Azure Solutions Architect at BI-Lab Solutions as part of the Data Engineering team. 
 
-- 🌱 I’m currently learning : Azure Data & AI
+- 🌱 I’m currently learning : Azure IoT
 - 💬 Ask me about : Microsoft Azure and its offerings
-- 📫 How to reach me: https://www.linkedin.com/in/inathi-mbomvu-3b74883a/
 
 
 <!--
