@@ -2,7 +2,7 @@
 
 Inathi Mbomvu works as Lead Data Engineer at BI-Lab Solutions. 
 
-- 🌱 I’m currently learning and Improving my skills in : Azure Data & AI
+- 🌱 I’m currently learning and improving my skills in : Azure Data & AI
 
 
 
